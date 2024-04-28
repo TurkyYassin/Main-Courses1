@@ -440,7 +440,7 @@
   #offers .offers-items img {
     width: 350px;
     border-radius: 10px;
-    
+    margin-bottom: 20px;
   }
   
   #offers .offers-items h3 button a {
