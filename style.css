@@ -676,6 +676,9 @@
       margin-left: 20px;
       margin-top: 1000px;
     }
+    .next{
+      margin-top: 1350px;
+    }
   }
 
   /* Next END */
@@ -787,7 +790,7 @@
 /*responsive*/
 @media(max-width: 1024px){
   .footer{
-    margin-top: 1200px;
+    margin-top: 50px;
 
   }
   .footer-col{
